@@ -1,4 +1,4 @@
-package co.com.sofka.turtleRace;
+package co.com.sofka.horserace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,10 +1,10 @@
-package co.com.sofka.turtleRace;
+package co.com.sofka.horserace;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TurtleRaceApplicationTests {
+class HorseRaceApplicationTests {
 
 	@Test
 	void contextLoads() {
